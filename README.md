@@ -29,7 +29,7 @@ Utilizamos nossos conhecimentos em HTML e CSS adquiridos durante o curso para re
 <p align="center">
   <img alt="Vai na Web" src="Desktop.png" width="80%">
 </p>
-- [Visite o projeto online]([https://KAYSILVHA.github.io/nlw_Setup](https://kaysilvha.github.io/Desafio_Disney_VNW/))
+- [Visite o projeto online](https://kaysilvha.github.io/Desafio_Disney_VNW/)
 
 ## 🔖 Layout
 
