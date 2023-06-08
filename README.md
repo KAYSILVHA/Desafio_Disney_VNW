@@ -33,4 +33,4 @@ Utilizamos nossos conhecimentos em HTML e CSS adquiridos durante o curso para re
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/xfz72ArMARKGUGeog126Ki/Desafio-2?type=design&node-id=0-1&t=SCsw9evQGwJnZ3PP-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/YbflUBirebsWg40te4XeLK/Desafio-2-(Copy)?type=design&node-id=1-2&t=nQnmYyeNebKKu4rw-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
