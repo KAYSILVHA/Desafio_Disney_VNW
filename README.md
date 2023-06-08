@@ -27,7 +27,7 @@ Este desafio tinha como objetivo clonar um projeto desenvolvido pelos instrutore
 Utilizamos nossos conhecimentos em HTML e CSS adquiridos durante o curso para realizarmos o desafio.
 <br>
 <p align="center">
-  <img alt="Vai na Web" src="https://pbs.twimg.com/profile_images/1110161791043145728/XmGdTkJR_400x400.png" width="80%" height= "400px">
+  <img alt="Vai na Web" src="Desktop.png" width="80%">
 </p>
 - [Visite o projeto online]([https://KAYSILVHA.github.io/nlw_Setup](https://kaysilvha.github.io/Desafio_Disney_VNW/))
 
