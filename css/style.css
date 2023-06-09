@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  cursor: url(https://cur.cursors-4u.net/toons/too-7/too643.cur), auto;
 }
 
 header{
@@ -19,7 +20,7 @@ ul {
 
 li {
   display: inline-block;
-  padding: 79px 128px;
+  padding: 79px;
   font-size: 32px;
   font-family: 'Lily Script One', cursive;
 }
@@ -48,12 +49,13 @@ header nav a:hover{
   width: 100%;
   height: 100%;
   padding: 21px 85px;
- cursor: url(https://cur.cursors-4u.net/toons/too-7/too643.cur), auto;
+  
 }
 
 .movies figure{
   width: 100%;
   height: 100%;
+  
 }
 .movies figure img{
   margin: 53px;
@@ -82,14 +84,13 @@ footer{
   font-size: 20px;
   font-family: 'Actor', sans-serif;
   display: inline-block;
-  margin-left: 250px;
+  text-align: center;
+  margin: 50px;
 }
 
 .images-footer{
   display: inline-block;
   height: 100%;
-  margin-left: 150px;
-  text-align: right;
 }
 
 .images-footer img{
